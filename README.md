@@ -2,7 +2,7 @@ When I traveled to Santorini, I was motivated to create a Mobile App to keep tra
 
 This is my Mobile App with me in Santorini in September 2022
 
-![My Image](images/MobileDemo.jpeg)
+![My Image](images/MobileDemo.jpg)
 
 Therefore I used Kotlin, along with TypeORM and Adapter to built this Mobile App
 
